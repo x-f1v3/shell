@@ -1,7 +1,7 @@
 #/bin/bash
 
 
-docker_name="bertramchan/mt"
+docker_name="XXX"
 
 
 
