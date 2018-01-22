@@ -5,8 +5,6 @@ docker_name="XXX"
 
 
 
-result=$(docker ps  | wc -l )
-
 while true 
 do
 result=$(docker ps  | wc -l )
